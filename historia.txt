@@ -1,3 +1,3 @@
 Esta es una prueba de git.
 
-Soy Cristian Paz, tengo 28 anos.
+Soy Cristian Paz, tengo 28 anos y es developer
